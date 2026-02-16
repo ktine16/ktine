@@ -1,1 +1,4 @@
-hello from person 1
+<?
+
+echo "hello world"
+  ?>
